@@ -8,11 +8,11 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | ANKAM CHARAN |
-| **Registration Number** | 252U1R1013 |
+| **Name** | CH. BHANU PRAKASH |
+| **Registration Number** | 252U1R1053 |
 | **Section** | 223 2A |
 | **Course** | Backend Development Fundamentals |
-| **Lab** | Lab 1 – Node.js and Express Server |
+| **Lab** | Lab 3 – REST API, Query Parameters, Validation, Debugging |
 
 ---
 
